@@ -1,1 +1,1 @@
-# Requisitos-técnicos - Prova de conhecimentos
+# Requisitos técnicos - Prova de conhecimentos
